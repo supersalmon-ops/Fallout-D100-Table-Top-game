@@ -1,0 +1,2 @@
+# Fallout-D100-Table-Top-game
+Anything I make, change, or update in terms of the game and it's rules will be posted here. Feel free to take a fork and make your own items, but check with me to add. Using modified Call of Cthulhu 7e rules to find out. Start with the readme, then progress to the section "rules", this covers everything you need to play the game (character creation, combat, stats, skills, leveling up, etc.). Will start to add monsters later. Feel free to add your own. 
